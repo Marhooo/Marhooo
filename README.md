@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Marhooo&show_icons=true&theme=cobalt)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Marhooo&repo=cobalt)](https://github.com/Marhooo/vue-blog-cms)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Marhooo&repo=vue-blog-cms&theme=cobalt)](https://github.com/Marhooo/vue-blog-cms)
 <!--
 **Marhooo/Marhooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
